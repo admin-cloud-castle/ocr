@@ -42,7 +42,7 @@ Production-ready PHP 8.1+ библиотека Ocr (CloudCastle).
 [![Maintainability](https://qlty.sh/gh/admin-cloud-castle/projects/ocr/maintainability.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/ocr)
 [![Qlty Coverage](https://qlty.sh/gh/admin-cloud-castle/projects/ocr/coverage.svg)](https://qlty.sh/gh/admin-cloud-castle/projects/ocr)
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/admin-cloud-castle/ocr/badge)](https://scorecard.dev/viewer/?uri=github.com/admin-cloud-castle/ocr)
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects?as=badge&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Focr)](https://www.bestpractices.dev/projects?as=entry&url=https%3A%2F%2Fgithub.com%2Fadmin-cloud-castle%2Focr)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/15756/badge)](https://www.bestpractices.dev/projects/15756)
 [![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=admin-cloud-castle_ocr&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=admin-cloud-castle_ocr)
 [![Snyk](https://snyk.io/test/github/admin-cloud-castle/ocr/badge.svg)](https://snyk.io/test/github/admin-cloud-castle/ocr)
 [![Codacy](https://img.shields.io/badge/Codacy-dashboard-blue)](https://app.codacy.com/gh/admin-cloud-castle/ocr/dashboard)
